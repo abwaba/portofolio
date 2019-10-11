@@ -1,0 +1,9 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E4ECEF;
+}
+
+.nav-item.active a{
+    color: blue !important;
+    font-weight: 400;
+}
